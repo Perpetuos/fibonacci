@@ -5,7 +5,7 @@ Este projeto consiste em um programa que verifica se um número pertence à sequ
 # Como utilizar
 Para utilizar o verificador de Fibonacci, basta executar o arquivo Fibonacci_Verificator.py e digitar um número quando solicitado. O programa irá informar se o número pertence à sequência de Fibonacci ou não.
 
-Para jogar o mini game, basta executar o arquivo Fibonacci_Game.py. O programa irá gerar um número aleatório da sequência de Fibonacci e o usuário deve acertar qual é, você recebe dicas se o numero é maior ou menor do que o numero que voce digitou. Caso digite um numero que nao pertença a sequência de Fibonacci, o jogo finaliza retornando que voce perdeu. se Caso acerte, o jogo finaliza informando que voce ganhou.
+Para jogar o mini game, basta executar o arquivo Fibonacci_Game.py. O programa irá gerar um número aleatório da sequência de Fibonacci e o usuário deve acertar qual é. Você recebe dicas se o numero do sistema é maior ou menor. Caso digite um numero que nao pertença a sequência de Fibonacci, o jogo finaliza retornando que voce perdeu. Caso acerte, o jogo finaliza informando que voce ganhou.
 
 # Tecnologias utilizadas
 O projeto foi desenvolvido em Python 3 e utiliza a biblioteca padrão da linguagem.
