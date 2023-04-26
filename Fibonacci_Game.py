@@ -8,7 +8,7 @@ while len(fibonacci) < 21:  # escolha quantos numeros da sequencia farão parte 
 random_num = random.choice(fibonacci)
 
 print("Bem-vindo ao mini game da sequência de Fibonacci!")
-print(f"Tente adivinhar o número que pertence à sequência de Fibonacci: ")
+print(f"Tente adivinhar o número que pertence à sequência de Fibonacci escolhido pelo sistema: ")
 
 guess = int(input("Digite o seu palpite: "))
 while True:
